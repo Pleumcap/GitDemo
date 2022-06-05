@@ -1,0 +1,4 @@
+23:20:50.498 [TestNG-tests-4] DEBUG freemarker.cache - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23:20:50.499 [TestNG-tests-4] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23:20:50.500 [TestNG-tests-4] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23:20:50.500 [TestNG-tests-4] DEBUG freemarker.cache - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/MSI/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
